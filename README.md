@@ -1,7 +1,6 @@
-# datascience_training
-Data Sciences training on PSL Software
+# datascience_training 
+Basic Data Sciences training
 
-Before of start, please clone the internal repo that containt the datasets,  and create a folder named 
-data/ and copy each dataset on it.
+Before of start, please download the Colombia COVID-19 data from: https://www.ins.gov.co/Paginas/Boletines-casos-COVID-19-Colombia.aspx and export the data on csv format from https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data 
 
-Para complementar los conceptos favor visitar el siguiente url: https://seeing-theory.brown.edu/index.html 
+Please visit the  url https://seeing-theory.brown.edu/index.html for indeep concepts learning. 
