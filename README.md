@@ -10,5 +10,5 @@ Notebooks index
 - [Notebook Session 1 part A](notebooks/Session_1.ipynb)
 - [Notebook Session part B](notebooks/Session_1b.ipynb)
 - [Notebook Exercises 1](notebooks/Exercises_1.ipynb)
-- [Notebook Sessio 2](notebooks/Session_2.ipynb)
+- [Notebook Session 2](notebooks/Session_2.ipynb)
 
